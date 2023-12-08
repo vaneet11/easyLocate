@@ -1,0 +1,46 @@
+[
+    {
+        "id": "1021040",
+        "displayName": "Home",
+        "key": "home",
+        "route": "/",
+        "icon": "Hi",
+        "otherRoutes": [
+            "/",
+            "/dashboard"
+        ]
+    },
+    {
+        "id": "1021041",
+        "displayName": "Projects",
+        "key": "projects",
+        "route": "/",
+        "icon": "Hi",
+        "otherRoutes": [
+            "/",
+            "/dashboard"
+        ]
+    },
+    {
+        "id": "1021042",
+        "displayName": "Users",
+        "key": "users",
+        "route": "/",
+        "icon": "Hi",
+        "otherRoutes": [
+            "/",
+            "/dashboard"
+        ]
+    },
+    {
+        "id": "1021043",
+        "displayName": "Trips",
+        "key": "trips",
+        "route": "/",
+        "icon": "Hi",
+        "otherRoutes": [
+            "/",
+            "/dashboard"
+        ]
+    }
+]
